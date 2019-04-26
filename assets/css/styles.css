@@ -1,0 +1,24 @@
+.container-blk {
+	margin-top: 5%;
+}
+hr {
+	border-color: grey;
+}
+.container-blk input {
+	width: 50%;
+	margin-left: 25%;
+}
+.close_icon {
+	float: right;
+    font-size: 14px;
+    margin-top: 0px;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 16px;
+    padding: 0px 5px 0px 5px;
+    color: red;
+    font-weight: bold;
+}
+.close_icon:hover {
+	background-color: #e8b3b3;
+}
